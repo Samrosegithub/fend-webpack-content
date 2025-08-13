@@ -1,6 +1,2 @@
-import { checkForName } from './js/nameChecker'
-import { handleSubmit } from './js/formHandler'
-
-console.log(checkForName);
-
-alert("I EXIST")
+import './styles/base.scss';
+console.log('Hello from Webpack!');
